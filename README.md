@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:25-09-2025
+## Register Number:25012629
+## Name:Mithun Kumar V
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -116,4 +116,4 @@ Promotes sustainable and eco-friendly farming practices.
 Empowers small and marginal farmers with modern agri-tech access.
 
 ## Research and References
-https://sdmntprwestus2.oaiusercontent.com/files/00000000-c8f8-61f8-bdae-780b8bec84fc/raw?se=2025-09-25T16%3A08%3A21Z&sp=r&sv=2024-08-04&sr=b&scid=4dfad826-c457-5b27-a1f7-41879d1c5056&skoid=d5627e4c-566b-4761-a954-54993b0ed17b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-24T17%3A19%3A27Z&ske=2025-09-25T17%3A19%3A27Z&sks=b&skv=2024-08-04&sig=cTKTcHO4EMkaak/R2CLb%2Bdm3YZPKd6od4ltJqISUEf8%3D
+<img width="1093" height="731" alt="Screenshot 2025-09-25 204129" src="https://github.com/user-attachments/assets/daf9f945-4b3d-455c-8f3d-2667f579ce4d" />
